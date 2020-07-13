@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.mobilebanking"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="18" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.mobilebanking.LoginActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+           <activity
+            android:name="com.example.mobilebanking.AgentCkekBalanceActivity"
+            android:label="@string/app_name" >    
+       </activity>  
+       
+               <activity
+            android:name="com.example.mobilebanking.BalanceActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.mobilebanking.BalanceActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+           
+       </activity>  
+       
+ 
+             <activity
+            android:name=".WithdrawActivity"
+            android:label="@string/app_name">
+            </activity> 
+            
+           <activity
+            android:name=".BuyUmuriroActivity"
+            android:label="@string/app_name">
+            </activity> 
+            
+           
+            <activity
+            android:name=".PayUmusoroActivity"
+            android:label="@string/app_name">
+            </activity> 
+           
+           
+            
+          <activity
+            android:name=".DepositActivity"
+            android:label="@string/app_name">
+            </activity>   
+            
+              <activity
+            android:name=".AgentChangepasswordActivity"
+            android:label="@string/app_name">
+            </activity>   
+            
+           <activity
+            android:name=".ChangepasswordActivity"
+            android:label="@string/app_name">
+            </activity> --> 
+            
+           
+        <activity
+             android:name=".TransferActivity"
+            android:label="@string/app_name">
+            </activity> 
+            <activity
+             android:name=".CustomerTransferActivity"
+            android:label="@string/app_name">
+            </activity>   
+            
+            
+              <activity
+            android:name="com.example.mobilebanking.ViewMessagesActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.mobilebanking.ViewMessagesActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+           
+       </activity> 
+            
+              <activity
+            android:name="com.example.mobilebanking.MenuListActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.mobilebanking.MenuListActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+           
+       </activity>
+       
+           <activity
+            android:name="com.example.mobilebanking.CustomerMenuListActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="com.example.mobilebanking.CustomerMenuListActivity" />
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+           
+       </activity> 
+              
+        
+    </application>
+
+</manifest>

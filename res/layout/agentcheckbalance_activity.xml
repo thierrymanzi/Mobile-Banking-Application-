@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     android:background="@drawable/arrowstars"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="CHECK BALANCE OPERATION"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Account Number"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/etAccount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Konti Yawe"
+        android:inputType="text"
+        android:visibility="invisible" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PiN"
+        android:visibility="invisible" />
+
+    <EditText
+        android:id="@+id/Epin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:hint="Pin Yawe"
+        android:inputType="numberPassword"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/btnCheckbalance"
+        android:layout_width="203dp"
+        android:layout_height="wrap_content"
+        android:onClick="AgentBalanceClick"
+        android:text="check balance" />
+
+</LinearLayout>

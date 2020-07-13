@@ -1,0 +1,53 @@
+[18-Apr-2015 12:27:38 America/Chicago] PHP Parse error:  syntax error, unexpected 'Connection' (T_STRING) in /home/posdima/public_html/mobile/login.php on line 17
+[20-Apr-2015 15:02:03 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[20-Apr-2015 15:04:07 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[20-Apr-2015 15:05:38 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[20-Apr-2015 15:11:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 03:09:22 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 03:48:24 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 04:00:55 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 04:07:13 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 04:22:21 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 22
+[21-Apr-2015 04:24:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'posdima_project'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkBalance.php on line 20
+[24-Apr-2015 14:16:15 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/posdima/public_html/mobile/deposit.php on line 140
+[24-Apr-2015 14:18:14 America/Chicago] PHP Parse error:  syntax error, unexpected '"' in /home/posdima/public_html/mobile/deposit.php on line 140
+[25-Apr-2015 17:00:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/tryAgent.php on line 14
+[26-Apr-2015 07:40:23 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/posdima/public_html/mobile/tryAgent.php on line 26
+[26-Apr-2015 07:46:19 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/posdima/public_html/mobile/tryAgent.php on line 26
+[26-Apr-2015 07:48:00 America/Chicago] PHP Parse error:  syntax error, unexpected ',' in /home/posdima/public_html/mobile/tryAgent.php on line 26
+[26-Apr-2015 11:52:31 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/posdima/public_html/mobile/checkbalanceAgent.php on line 24
+[26-Apr-2015 11:58:15 America/Chicago] PHP Fatal error:  Call to a member function query() on a non-object in /home/posdima/public_html/mobile/checkbalanceAgent.php on line 32
+[26-Apr-2015 11:59:52 America/Chicago] PHP Parse error:  syntax error, unexpected 'connection' (T_STRING) in /home/posdima/public_html/mobile/checkbalanceAgent.php on line 16
+[28-Apr-2015 07:38:22 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/posdima/public_html/mobile/TransferCustomer.php on line 145
+[28-Apr-2015 07:41:45 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/posdima/public_html/mobile/TransferCustomer.php on line 145
+[28-Apr-2015 07:44:06 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/posdima/public_html/mobile/TransferCustomer.php on line 145
+[28-Apr-2015 07:55:28 America/Chicago] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/posdima/public_html/mobile/TransferCustomer.php on line 145
+[29-Apr-2015 08:22:18 America/Chicago] PHP Warning:  mysqli::query() expects at most 2 parameters, 5 given in /home/posdima/public_html/mobile/kubikuza.php on line 112
+[29-Apr-2015 08:24:59 America/Chicago] PHP Warning:  mysqli::query() expects at most 2 parameters, 5 given in /home/posdima/public_html/mobile/kubikuza.php on line 112
+[29-Apr-2015 08:34:34 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting '(' in /home/posdima/public_html/mobile/kubikuza.php on line 112
+[29-Apr-2015 09:55:19 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home/posdima/public_html/mobile/kubitsa.php on line 155
+[29-Apr-2015 10:12:51 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/posdima/public_html/mobile/kubitsa.php on line 111
+[29-Apr-2015 10:17:00 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/posdima/public_html/mobile/kubitsa.php on line 109
+[29-Apr-2015 10:19:24 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/posdima/public_html/mobile/kubitsa.php on line 153
+[29-Apr-2015 10:25:33 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/posdima/public_html/mobile/trykubitsa.php on line 114
+[29-Apr-2015 10:27:20 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/posdima/public_html/mobile/trykubitsa.php on line 114
+[29-Apr-2015 10:41:34 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/posdima/public_html/mobile/trykubitsa.php on line 112
+[29-Apr-2015 16:37:45 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 05:59:40 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/posdima/public_html/mobile/kubikuzastutus.php on line 193
+[30-Apr-2015 06:00:17 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/posdima/public_html/mobile/kubikuzastutus.php on line 193
+[30-Apr-2015 06:00:45 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/posdima/public_html/mobile/kubikuzastutus.php on line 193
+[30-Apr-2015 06:13:23 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/posdima/public_html/mobile/kubikuzastutus.php on line 193
+[30-Apr-2015 08:08:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 134
+[30-Apr-2015 08:22:24 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 134
+[30-Apr-2015 10:16:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 131
+[30-Apr-2015 10:17:48 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 131
+[30-Apr-2015 10:18:11 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 131
+[30-Apr-2015 10:25:20 America/Chicago] PHP Parse error:  syntax error, unexpected '$accoudestination' (T_VARIABLE), expecting ')' in /home/posdima/public_html/mobile/trykubitsa.php on line 131
+[30-Apr-2015 12:20:57 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 12:23:46 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 12:35:10 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 12:39:00 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 12:39:29 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 13:21:07 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 13:24:36 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
+[30-Apr-2015 13:25:14 America/Chicago] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/posdima/public_html/mobile/hinduraagent.php on line 17
